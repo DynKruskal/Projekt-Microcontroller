@@ -1,0 +1,26 @@
+##############################
+Allgemein
+##########
+
+Documentation RasberryPi
+https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C9125B0D9B
+
+C/C++ SDK
+https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html
+
+GettingStarted offiziellesDokument
+https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
+
+
+###############################
+Debugging
+#########
+
+Video zum Debugging
+https://www.youtube.com/watch?v=0i2gLeBal9Y
+
+Release debugprobe
+https://github.com/raspberrypi/debugprobe/releases/tag/debugprobe-v2.2.2
+
+GettingStarted offiziellesDokument	//Kapitel: "Debug with a second Pico or Pico 2"
+https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
